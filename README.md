@@ -3,7 +3,7 @@
 [![Travis (.org) branch](https://img.shields.io/travis/repl-it-discord/repl-it-electron/dev.svg?logo=travis)](https://travis-ci.org/repl-it-discord/repl-it-electron)
 [![Discord](https://img.shields.io/discord/437048931827056642.svg?logo=discord)](https://discord.gg/5gcPC6B)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3bce49c376cf4c2bb1d2813d6b12dd6a)](https://www.codacy.com/manual/leon332157/repl-it-electron?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=repl-it-discord/repl-it-electron&amp;utm_campaign=Badge_Grade)
-
+/home/runner/.npm/_logs/2020-09-12T07_33_32_932Z-debug.log
 ## Summary
 
 [Repl.it](https://repl.it) is an online coding platform that provides a browser-based IDE. `repl-it-electron` is an unofficial native desktop application that interfaces with repl.it. It intends to improve developer experience and efficiency.
@@ -67,3 +67,4 @@ Builds the app for release.
 ## Acknowledgements
 
 [@mat1](https://matdoes.dev/) for Discord Rich Presence Integration and custom dark theme
+[![Run on Repl.it](https://repl.it/badge/github/repl-it-discord/repl-it-electron)](https://repl.it/github/repl-it-discord/repl-it-electron)
